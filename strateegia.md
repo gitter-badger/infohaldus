@@ -1,4 +1,5 @@
 # Riigi kinnisvara infohalduse strateegia
+(draft)
 
 ## Sissejuhatus
 Strateegia aluseks on strateegia kavand "[Dokumendihalduselt infohaldusele](https://www.mkm.ee/sites/default/files/dokumendihalduselt_infohaldusele_strateegia_1.9.pdf)".
