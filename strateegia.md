@@ -7,6 +7,8 @@ Strateegia aluseks on strateegia kavand "[Dokumendihalduselt infohaldusele](http
 ###1.2 Töö metoodika
 ##2 Visioon ja eesmärgid
 ###2.1 Lahendamist vajavad probleemid
+* riigi kinnisvara andmekogude nõrk koosvõime, probleemide peamisteks põhjusteks on andmete koosseisu, kvaliteedi ja semantika erinevused.
+* 
 ###2.2 Visioon: terviklik hästi korraldatud riigi kinnisvara infohaldus
 ###2.3 Riigi kinnisvara infohalduse strateegia eesmärgid
 ####2.3.1 **20% efektiivsem toimimine.** 
