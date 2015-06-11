@@ -1,1 +1,1 @@
-# Riigi kinnisvara infohalduse koordineerimise töötuba
+# Riigi kinnisvara infohalduse töötuba
