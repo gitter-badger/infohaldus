@@ -31,6 +31,10 @@ Aastal 2020 peab riik toime tulema viiendiku võrra väiksema eelarvega ning pak
 
 #### 3.1.1 Õigusloome keskkonna parandamine
 
+#### 3.1.2 Kinnisvaravaldkonna semantika kirjeldamine
+
+Riigi kinnisvaravaldkonnas tuleb defineerida ühine semantika ([kirjeldamise juhis](https://www.ria.ee/public/RIHA/semantilise_kirjeldamise_juhis_v04.PDF)).
+
 ### 3.2 Organisatsioonide sisesed meetmed, tegevused ja mõõdikud
 
 ## 4 Mõõdikud ja seire
