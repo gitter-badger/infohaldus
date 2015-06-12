@@ -37,6 +37,12 @@ Riigi kinnisvaravaldkonnas tuleb süstemaatiliselt hakata semantikavarasid halda
 
 ![semantikavarade_haldamine](https://cloud.githubusercontent.com/assets/146800/8126481/9311bd22-10f7-11e5-9951-668d4aa924b2.PNG)
 
+Semantikavarade haldamine peab olema taaskasutav - uute mõistete loomist paralleelselt olemasolevate kõrvale tuleb vältida. Selle asemel tuleb taotleda olemasoleva täiendamist vastavalt muudatusvajadusele.
+
+Kinnisvaravaldkonna semantika parim praktika:
+* OSCRE: http://www.oscre.org/index.php/oscre-resources/choose-and-use
+* IFC: http://www.buildingsmart-tech.org/specifications/ifc-overview
+
 ### 3.2 Organisatsioonide sisesed meetmed, tegevused ja mõõdikud
 
 ## 4 Mõõdikud ja seire
