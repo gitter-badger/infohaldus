@@ -29,9 +29,7 @@ Aastal 2020 peab riik toime tulema viiendiku võrra väiksema eelarvega ning pak
 
 ### 3.1 Riigiülesed meetmed
 
-#### 3.1.1 Õigusloome keskkonna parandamine
-
-#### 3.1.2 Semantikavarade haldamise rakendamine
+#### 3.1.1 Semantikavarade haldamise rakendamine
 
 Riigi kinnisvaravaldkonnas tuleb süstemaatiliselt hakata semantikavarasid haldama. Selleks tuleb esmalt luua andmete semantiliseks kirjeldamiseks vajalik **kontseptsioon** (ontoloogia OWL vormingus, [#2](https://github.com/kinnisvara/infohaldus/issues/2)) ja seejärel **kirjeldada andmeteenused ja -koosseisud** ([kirjeldamise juhis](https://www.ria.ee/public/RIHA/semantilise_kirjeldamise_juhis_v04.PDF)). Semantikavarade haldamine peab olema järjepidev.
 
@@ -42,6 +40,10 @@ Semantikavarade haldamine peab olema taaskasutav - uute mõistete loomist parall
 Kinnisvaravaldkonna semantika parim praktika:
 * OSCRE: http://www.oscre.org/index.php/oscre-resources/choose-and-use
 * IFC: http://www.buildingsmart-tech.org/specifications/ifc-overview
+
+#### 3.1.2 Kvaliteedijuhtimise rakendamine äriprotsesside ja teenuste haldamisel
+
+#### 3.1.3 Õigusloome keskkonna parandamine
 
 ### 3.2 Organisatsioonide sisesed meetmed, tegevused ja mõõdikud
 
