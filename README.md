@@ -1,5 +1,10 @@
 # Riigi kinnisvara infohalduse töötuba
 
+## Hetkel töös
+
+* [Kinnisvaravaldkonna semantika](https://github.com/kinnisvara/infohaldus/blob/master/semantika.md)
+* [Riigi kinnisvara infohalduse strateegia](https://github.com/kinnisvara/infohaldus/blob/master/strateegia.md)
+
 ## Töökorraldus
 
 Kinnisvara infohalduse põhimõtete väljatöötamisel ja uuendamisel kasutame moodsaid Githubi poolt pakutavaid ühisloome vahendeid. Peamisteks töövahenditeks [infohalduse projektis](https://github.com/kinnisvara/infohaldus/) on versioneeritavas repositooriumis asuvad dokumendid (eelkõige *.md lõpuga failid) ja [kanded](https://github.com/kinnisvara/infohaldus/issues).
