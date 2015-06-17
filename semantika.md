@@ -2,6 +2,8 @@
 
 ## Kinnisvara ([#3](https://github.com/kinnisvara/infohaldus/issues/3))
 
+## Kasutatav kinnisvara ([#8](https://github.com/kinnisvara/infohaldus/issues/8))
+
 ## Kinnisvarainvesteering ([#7](https://github.com/kinnisvara/infohaldus/issues/7))
 
 __Kinnisvarainvesteering__ (Investment Property) on kinnisvaraobjekt (maa või hoone (või osa hoonest) või mõlemad), mida ettevõte hoiab (kas omanikuna või kapitalirendi tingimustel rendituna) eelkõige renditulu teenimise, väärtuse kasvu või mõlemal eesmärgil, mitte aga kasutamiseks toodete või teenuste tootmisel, halduseesmärkidel või müügiks tavapärase äritegevuse käigus. ([RTJ 6, §6](https://www.riigiteataja.ee/aktilisa/3100/1201/2005/RTJ%206.pdf))
