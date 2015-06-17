@@ -8,4 +8,4 @@ Dokumendi saab otse repositooriumisse lisada või seda muuta eriõigustega kasut
 
 Kannete [#](https://help.github.com/articles/about-issues/) abil on hea probleeme või ideid tõstatada ja neid kommentaaride, siltide, [loetelude](https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments) ja staatuse muutmise abil menetleda. Menetlemise tulemusena peaks tekkima  sisend uude dokumenti või olemasoleva muutmiseks. Kannetes saab kasutada [täiendatud markdown](https://help.github.com/articles/github-flavored-markdown/) süntaksit. Kandeid ja kommentaare saab lisada iga registreeritud kasutaja.
 
-@tormi
+[@tormi](https://github.com/tormi)
