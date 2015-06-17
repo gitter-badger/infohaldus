@@ -8,7 +8,7 @@
 
 ## Töökorraldus
 
-Kinnisvara infohalduse põhimõtete väljatöötamisel ja uuendamisel kasutame moodsaid Githubi poolt pakutavaid ühisloome vahendeid. Peamisteks töövahenditeks [infohalduse projektis](https://github.com/kinnisvara/infohaldus/) on versioneeritavas repositooriumis asuvad dokumendid (eelkõige *.md lõpuga failid) ja [kanded](https://github.com/kinnisvara/infohaldus/issues).
+Kinnisvara infohalduse põhimõtete väljatöötamisel ja uuendamisel kasutame moodsaid Githubi poolt pakutavaid ühisloome vahendeid. Peamisteks töövahenditeks [infohalduse projektis](https://github.com/kinnisvara/infohaldus/) on versioneeritavas repositooriumis asuvad dokumendid (eelkõige *.md lõpuga failid, näiteks [strateegia.md](strateegia.md)) ja [kanded](https://github.com/kinnisvara/infohaldus/issues).
 
 Dokumendi saab otse repositooriumisse lisada või seda muuta eriõigustega kasutaja, õiguse saab taotleda projektijuhilt [kande abil](https://github.com/kinnisvara/infohaldus/issues/new). Teine, eelistatum viis dokumentide muutmiseks on [fork & pull](https://help.github.com/articles/using-pull-requests/#fork--pull) meetod. Dokumentides saab kasutada [markdown](https://help.github.com/articles/markdown-basics/) süntaksit. Dokumendi loomisel/muutmisel kirjeldame logis (*Commit changes*) muudatuse sisu, vajadusel lisame viite vastavale kandele (kujul trellid + kande nr, [näide](https://github.com/kinnisvara/infohaldus/commit/bd3b53750e7ab1966a1694cdd5be1331ceee96c0)).
 
