@@ -2,8 +2,9 @@
 
 ## Hetkel töös
 
-* [Kinnisvaravaldkonna semantika](https://github.com/kinnisvara/infohaldus/blob/master/semantika.md)
-* [Riigi kinnisvara infohalduse strateegia](https://github.com/kinnisvara/infohaldus/blob/master/strateegia.md)
+* [Kinnisvaravaldkonna semantika](semantika.md)
+* [Kinnisvaravaldkonna protsessikaart](protsessid/protsessikaart.md)
+* [Riigi kinnisvara infohalduse strateegia](strateegia.md)
 
 ## Töökorraldus
 
