@@ -18,9 +18,9 @@ Riigi kinnisvara infohalduse strateegia aluseks on strateegia "[Dokumendihalduse
 
 ### 2.3 Riigi kinnisvara infohalduse strateegia eesmärgid
 
-#### **Kvaliteetsem elukeskkond**
+#### **Kvaliteetsem töö- ja elukeskkond**
 
-#### **Efektiivsem toimimine** 
+#### **Efektiivsem riik** 
 Aastal 2020 peab riik toime tulema viiendiku võrra väiksema eelarvega ning pakkuma vähemalt samas mahus vähemalt sama kvaliteediga avalikke teenuseid. 
 
 Kinnisvara ja ehitiste infohalduses BIM'i rakendamise majanduslik sääst võib uuringutele ja teiste riikide kogemusele tuginedes olla märkimisväärne: 
