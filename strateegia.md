@@ -68,11 +68,16 @@ The PAS 1192:3 provides an approach to support the objectives of asset managemen
 
 #### Õigusloome protsessi parendamine
 
-Õigusloomele peab eelnema äriprotsessi analüüs ja semantika ühtlustamine.
+Õigusloomele peab eelnema äriprotsessi kirjeldamine ja semantika ühtlustamine.
 
-#### Infohalduse töövahendite arendamise protsessi parendamine
+#### Parimaid praktikaid toetavate infohalduse töövahendite arendamine ja kasutuselevõtmine
 
-http://wunderkraut.github.io/WunderFlow/
+* [NBS BIM Toolkit](https://toolkit.thenbs.com/), [tutvustav video](http://www.theb1m.com/video/nbs-bim-toolkit-explained)*
+* [BRE COBie](http://brecobie.bre.co.uk/), [tutvustavad videod](https://www.youtube.com/playlist?list=PLdw8FwXDx_dgzFSZinArHrjiIUvpKFaPD), [lähtekood](https://github.com/kinnisvara/BreCOBie))
+
+[RIBA vs BRE](http://bimcrunch.com/2014/09/ribas-nbs-win-uk-government-level-2-bim-dpow-contract/)
+
+Töövahendite arendamisel tuleb lähtuda avatusest, koostööst ja pidevast parendamisest: http://wunderkraut.github.io/WunderFlow/
 
 ### 3.2 Organisatsioonide sisesed meetmed, tegevused ja mõõdikud
 
