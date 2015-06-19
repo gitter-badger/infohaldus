@@ -45,6 +45,11 @@ Kinnisvaravaldkonna semantika parim praktika:
 * OSCRE: http://www.oscre.org/index.php/oscre-resources/choose-and-use
 * IFC: http://www.buildingsmart-tech.org/specifications/ifc-overview
 
+#### Ehitise infohalduse parimate praktikate rakendamine
+
+[PAS 1192-2](http://www.theb1m.com/video/pas-1192-2-in-5-minutes) provides the framework for collaborative working and information management in a BIM Level 2 environment.
+![pas 1192-2](https://cloud.githubusercontent.com/assets/146800/8249462/fa71d922-1672-11e5-8aa2-fef0ebd4ffec.PNG)
+
 #### Kvaliteedijuhtimise rakendamine äriprotsesside ja teenuste haldamisel
 
 #### Õigusloome protsessi parendamine
