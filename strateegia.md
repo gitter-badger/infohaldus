@@ -30,6 +30,8 @@ Kinnisvara ja ehitiste infohalduses BIM'i rakendamise majanduslik sääst võib 
 
 ### 2.4 Seonduvad initsiatiivid
 
+[e-ehitus](http://e-ehitis.ee/)
+
 ## 3 Meetmed eesmärkideni jõudmiseks, tegevused ja mõõdikud
 
 ### Continuous improvement põhimõtete rakendamine
