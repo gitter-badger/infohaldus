@@ -2,6 +2,8 @@
 
 ## Kinnisvara ([#3](https://github.com/kinnisvara/infohaldus/issues/3))
 
+__Kinnisvara__ on seatud eesmärgi saavutamiseks vajalik maade, ehitiste või nende osade ning seonduvate õiguste ja kohustuste kogum. Kinnisvara liigid on kasutatav kinnisvara (põhivara) ja kinnisvarainvesteering.
+
 ## Kasutatav kinnisvara ([#8](https://github.com/kinnisvara/infohaldus/issues/8))
 __Kasutatav kinnisvara__ on kinnisvara, mida isik kasutab enda haldus- või majandustegevuses (= RTJ 5 Materiaalne põhivara).
 
