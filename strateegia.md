@@ -45,7 +45,21 @@ Kinnisvaravaldkonna semantika parim praktika:
 * OSCRE: http://www.oscre.org/index.php/oscre-resources/choose-and-use
 * IFC: http://www.buildingsmart-tech.org/specifications/ifc-overview
 
-#### Ehitise infohalduse parimate praktikate rakendamine
+#### Ehitiste ja kinnisvara infohalduse parimate praktikate rakendamine
+
+##### [PAS 1192-3](http://shop.bsigroup.com/forms/pass/pas-1192-3/) Specification for information management for the operational phase of assets using building information modelling (BIM)
+
+The PAS 1192:3 provides an approach to support the objectives of asset management through the use of asset information. Benefits targeted might be:
+* Reduced costs as a result of the automated transfer of accurate, complete and unambiguous information at asset handover and during transfer of operation from one service provider to another.
+* Better awareness of the operational and maintenance needs of assets.
+* Better decisions regarding operation and maintenance expenditure based on actual asset performance and status.
+* Better identification of poor performance, faults and impending failure by providing a home for data from dynamic measuring and condition sensing devices.
+* Better organisation planning and strategic planning by having more complete and accurate asset information.
+* Better information quality as a result of the automated verification introduced by the governance requirements.
+
+![asset_info_model](https://cloud.githubusercontent.com/assets/146800/8250437/7793bf3e-167c-11e5-9414-6c707c5989bc.PNG)
+
+##### [PAS 1192-2](http://shop.bsigroup.com/forms/pass/pas-1192-2/) Specification for information management for the capital/delivery phase of construction projects using building information modelling
 
 [PAS 1192-2](http://www.theb1m.com/video/pas-1192-2-in-5-minutes) provides the framework for collaborative working and information management in a BIM Level 2 environment.
 ![pas 1192-2](https://cloud.githubusercontent.com/assets/146800/8249462/fa71d922-1672-11e5-8aa2-fef0ebd4ffec.PNG)
