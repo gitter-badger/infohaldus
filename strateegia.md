@@ -11,8 +11,9 @@ Riigi kinnisvara infohalduse strateegia aluseks on strateegia "[Dokumendihalduse
 ## 2 Visioon ja eesmärgid
 
 ### 2.1 Lahendamist vajavad probleemid
-* riigi kinnisvara andmekogude nõrk koosvõime, peamisteks põhjusteks andmete koosseisu, kvaliteedi ja semantika erinevused.
-* 
+* riigi kinnisvara andmekogude nõrk koosvõime, peamisteks põhjusteks andmete koosseisu, kvaliteedi ja semantika erinevused
+* vajalik info ei ole kättesaadav (puudulikud infomudelid, info halb kvaliteet)
+* raiskamine info mitmekordsel taastootmisel
 
 ### 2.2 Visioon: terviklik hästi korraldatud riigi kinnisvara infohaldus
 
@@ -21,7 +22,9 @@ Riigi kinnisvara infohalduse strateegia aluseks on strateegia "[Dokumendihalduse
 #### **Kvaliteetsem töö- ja elukeskkond**
 
 #### **Efektiivsem riik** 
-Aastal 2020 peab riik toime tulema viiendiku võrra väiksema eelarvega ning pakkuma vähemalt samas mahus vähemalt sama kvaliteediga avalikke teenuseid. 
+Aastal 2020 peab riik toime tulema viiendiku võrra väiksema eelarvega ning pakkuma vähemalt samas mahus vähemalt sama kvaliteediga avalikke teenuseid.
+
+#### **Informeeritud otsused** 
 
 Kinnisvara ja ehitiste infohalduses BIM'i rakendamise majanduslik sääst võib uuringutele ja teiste riikide kogemusele tuginedes olla märkimisväärne: 
 * [Digital Built Britain, Ühendkuningriigid](http://www.buildingsmart.org/2015/03/03/digital-built-britain-launch/): The standards and savings delivered by the BIM level 2 initiative has been central to the __£840M savings achieved on central public spend in 2013/14__. [@nick_tune #BIMsday](https://twitter.com/FINAL_CAD/status/611436392258891776): The main rationale for the UK gov to introduce the mandate on #BIM was to reduce costs. __£1.7B saved between '11 and '14__.
