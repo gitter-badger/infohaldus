@@ -39,7 +39,9 @@ Kinnisvara ja ehitiste infohalduses BIM'i rakendamise majanduslik sääst võib 
 
 ### Semantikavarade haldamise rakendamine
 
-Riigi kinnisvaravaldkonnas tuleb süstemaatiliselt hakata semantikavarasid haldama. Selleks tuleb esmalt luua andmete semantiliseks kirjeldamiseks vajalik **kontseptsioon** (ontoloogia OWL vormingus, [#2](https://github.com/kinnisvara/infohaldus/issues/2)) ja seejärel **kirjeldada andmeteenused ja -koosseisud** ([kirjeldamise juhis](https://www.ria.ee/public/RIHA/semantilise_kirjeldamise_juhis_v04.PDF)). Semantikavarade haldamine peab olema järjepidev.
+Riigi kinnisvaravaldkonnas tuleb süstemaatiliselt hakata semantikavarasid haldama. Selleks tuleb esmalt luua andmete semantiliseks kirjeldamiseks vajalik **kontseptsioon** (ontoloogia OWL vormingus, [#2](https://github.com/kinnisvara/infohaldus/issues/2)) ja seejärel **kirjeldada andmeteenused ja -koosseisud** ([kirjeldamise juhis](https://www.ria.ee/public/RIHA/semantilise_kirjeldamise_juhis_v04.PDF)). 
+
+Semantikavarade haldamine peab olema järjepidev.
 
 ![semantikavarade_haldamine](https://cloud.githubusercontent.com/assets/146800/8126481/9311bd22-10f7-11e5-9951-668d4aa924b2.PNG)
 
@@ -83,6 +85,9 @@ The PAS 1192:3 provides an approach to support the objectives of asset managemen
 
 ![asset_info_model](https://cloud.githubusercontent.com/assets/146800/8250437/7793bf3e-167c-11e5-9414-6c707c5989bc.PNG)
 
+How the approach outlined in document PAS 1192 Part 3 might be used by an organisation to develop their bespoke digital Asset Information Model to support decision making - __[The Asset Information Model 
+using BIM](http://www.bimtaskgroup.org/wp-content/uploads/2014/09/The-Asset-Information-Model-using-BIM.pdf)__.
+
 ##### [BS 1192-4:2014](http://shop.bsigroup.com/forms/PASs/BS-1192-4-2014/) Collaborative production of information. Fulfilling employer's information exchange requirements using COBie. Code of practice
 
 COBie (Construction Operations Building information exchange) provides a common structure for the exchange of information about new and existing Facilities, including both buildings and infrastructure.
@@ -98,6 +103,7 @@ To make these manageable during the Facility lifecycle, spatial locations are al
 
 ![cobie_british](https://cloud.githubusercontent.com/assets/146800/8399276/1bdbc864-1e13-11e5-8528-4c8df9495256.png)
 
+[COBie 2016 and its importance for 'Digital Britain'](https://thebimhub.com/2015/05/25/cobie-2016-and-its-importance-for-digital-britain/)
 
 ##### [PAS 1192-5:2015](http://shop.bsigroup.com/forms/PASs/PAS-1192-5/) Specification for security-minded building information modelling, digital built environment and smart asset management ([pdf](http://shop.bsigroup.com/upload/271469/PAS1192-5-BSI.pdf))
 
