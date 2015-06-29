@@ -52,7 +52,13 @@ Kinnisvaravaldkonna semantika parim praktika:
 
 ### Ehitiste ja kinnisvara infohalduse parimate praktikate rakendamine
 
-#### [PAS 1192-3](http://shop.bsigroup.com/forms/pass/pas-1192-3/) Specification for information management for the operational phase of assets using building information modelling (BIM)
+#### BIM level 2
+
+![bim_maturity_levels](https://cloud.githubusercontent.com/assets/146800/8399085/c650e02c-1e0e-11e5-8fc3-df5a560e5311.png)
+
+![1192-5_skeem](https://cloud.githubusercontent.com/assets/146800/8399094/ea0503c2-1e0e-11e5-9ef9-cf69cd59f39b.png)
+
+##### [PAS 1192-3](http://shop.bsigroup.com/forms/pass/pas-1192-3/) Specification for information management for the operational phase of assets using building information modelling (BIM)
 
 The PAS 1192:3 provides an approach to support the objectives of asset management through the use of asset information. Benefits targeted might be:
 * Reduced costs as a result of the automated transfer of accurate, complete and unambiguous information at asset handover and during transfer of operation from one service provider to another.
@@ -64,10 +70,23 @@ The PAS 1192:3 provides an approach to support the objectives of asset managemen
 
 ![asset_info_model](https://cloud.githubusercontent.com/assets/146800/8250437/7793bf3e-167c-11e5-9414-6c707c5989bc.PNG)
 
-#### [PAS 1192-2](http://shop.bsigroup.com/forms/pass/pas-1192-2/) Specification for information management for the capital/delivery phase of construction projects using building information modelling
+##### [PAS 1192-2](http://shop.bsigroup.com/forms/pass/pas-1192-2/) Specification for information management for the capital/delivery phase of construction projects using building information modelling
 
 [PAS 1192-2](http://www.theb1m.com/video/pas-1192-2-in-5-minutes) provides the framework for collaborative working and information management in a BIM Level 2 environment.
 ![pas 1192-2](https://cloud.githubusercontent.com/assets/146800/8249462/fa71d922-1672-11e5-8aa2-fef0ebd4ffec.PNG)
+
+##### [PAS 1192-5:2015](http://shop.bsigroup.com/forms/PASs/PAS-1192-5/) Specification for security-minded building information modelling, digital built environment and smart asset management ([pdf](http://shop.bsigroup.com/upload/271469/PAS1192-5-BSI.pdf))
+
+PAS 1192-5 specifies the processes which will assist organisations in identifying and implementing appropriate and proportionate measures to reduce the risk of loss or disclosure of information which could impact on the safety and 
+security of:
+- personnel and other occupants or users of the built asset and its services;
+- the built asset itself;
+- asset information; and/or
+- the benefits the built asset exists to deliver
+
+![1192-5_protsess](https://cloud.githubusercontent.com/assets/146800/8399102/07dfbdb0-1e0f-11e5-96eb-f136d0cf9e41.png)
+
+#### BIM Level 3
 
 ### Kvaliteedijuhtimise rakendamine äriprotsesside ja teenuste haldamisel
 
