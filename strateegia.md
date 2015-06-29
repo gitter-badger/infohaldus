@@ -53,6 +53,14 @@ Kinnisvaravaldkonna semantika parim praktika:
 
 ### Ehitiste ja kinnisvara infohalduse parimate praktikate rakendamine
 
+#### ISO 55001:2014 Asset Management 
+http://www.bsigroup.com/en-GB/Asset-Management/
+
+- BS ISO 55000 provides critical overview, concepts and terminology
+- BS ISO 55001 specifies the requirements for an effective Asset Management System
+- BS ISO 55002 offers interpretation and guidance for such a system to be implemented.
+
+
 #### BIM level 2
 
 ![bim_maturity_levels](https://cloud.githubusercontent.com/assets/146800/8399085/c650e02c-1e0e-11e5-8fc3-df5a560e5311.png)
