@@ -37,10 +37,6 @@ Kinnisvara ja ehitiste infohalduses BIM'i rakendamise majanduslik sääst võib 
 
 ## 3 Meetmed eesmärkideni jõudmiseks, tegevused ja mõõdikud
 
-### Continuous improvement põhimõtete rakendamine
-
-Continuous improvement, http://businesscasestudies.co.uk/corus/continuous-improvement-as-a-business-strategy/continuous-improvement.html#axzz3dLCJSEHA
-
 ### Semantikavarade haldamise rakendamine
 
 Riigi kinnisvaravaldkonnas tuleb süstemaatiliselt hakata semantikavarasid haldama. Selleks tuleb esmalt luua andmete semantiliseks kirjeldamiseks vajalik **kontseptsioon** (ontoloogia OWL vormingus, [#2](https://github.com/kinnisvara/infohaldus/issues/2)) ja seejärel **kirjeldada andmeteenused ja -koosseisud** ([kirjeldamise juhis](https://www.ria.ee/public/RIHA/semantilise_kirjeldamise_juhis_v04.PDF)). Semantikavarade haldamine peab olema järjepidev.
@@ -111,7 +107,9 @@ security of:
 
 #### BIM Level 3
 
-### Kvaliteedijuhtimise rakendamine äriprotsesside ja teenuste haldamisel
+
+
+### Kvaliteedijuhtimise rakendamine äriprotsesside ja teenuste haldamisel. [Continuous improvement](http://businesscasestudies.co.uk/corus/continuous-improvement-as-a-business-strategy/continuous-improvement.html#axzz3dLCJSEHA) põhimõtete rakendamine
 
 ### Õigusloome protsessi parendamine
 
