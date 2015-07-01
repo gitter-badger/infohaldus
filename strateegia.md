@@ -2,7 +2,7 @@
 (draft)
 
 ## Sissejuhatus
-Riigi kinnisvara infohalduse strateegia aluseks on strateegia "[Dokumendihalduselt infohaldusele](https://www.mkm.ee/sites/default/files/dokumendihalduselt_infohaldusele_strateegia_1.9.pdf)" ja selle [alusdokument](https://www.mkm.ee/sites/default/files/lopparuanne_-_dokumendi-_ja_infohalduse_hetkeolukorra_ja_rahvusvaheliste_kogemuste_analuus_1_2.0.pdf).
+Riigi kinnisvara infohalduse strateegia alusteks on strateegia "[Dokumendihalduselt infohaldusele](https://www.mkm.ee/sites/default/files/dokumendihalduselt_infohaldusele_strateegia_1.9.pdf)" ja selle [alusdokument](https://www.mkm.ee/sites/default/files/lopparuanne_-_dokumendi-_ja_infohalduse_hetkeolukorra_ja_rahvusvaheliste_kogemuste_analuus_1_2.0.pdf) ning projekti "[Riigi kinnisvara kasutusnormatiivide väljatöötamine ja rakendamine riigi eelarveprotsessis](http://riigivara.fin.ee/lr1/web/guest/tof)" raames teostatud [uuringute tulemused](https://github.com/kinnisvara/infohaldus/tree/master/tof).
 
 ### 1.1 Strateegias kasutatavad mõisted
 
