@@ -1,1 +1,1 @@
-## Regulatsioon
+## Kinnisvara infohalduse regulatsioon
