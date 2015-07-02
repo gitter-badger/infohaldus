@@ -1,7 +1,7 @@
 # Kasutatava kinnisvara portfellihaldus
 Occupier Portfolio Management
 
-## Kasutatava kinnisvara kuluhaldus 
+## Kasutuskulude haldus 
 Occupancy Cost Management
 
 ## Ruumide haldus 
