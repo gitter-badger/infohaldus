@@ -1,4 +1,4 @@
-# Riigi kinnisvara infohalduse töötuba
+# Kinnisvara infohalduse töötuba
 
 ## Hetkel töös
 
