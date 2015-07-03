@@ -1,0 +1,3 @@
+## Riigivara valitsejate korrad
+
+* Kultuuriministeerium
