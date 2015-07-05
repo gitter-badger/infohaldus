@@ -1,3 +1,3 @@
 ## Riigivara valitsejate korrad
 
-* Kultuuriministeerium
+* [Kultuuriministeerium](kum_riigivara_kord.pdf)
