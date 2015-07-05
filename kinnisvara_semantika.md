@@ -1,4 +1,5 @@
 # Kinnisvaravaldkonna semantika
+(draft)
 
 ## Kinnisvara ([#3](https://github.com/kinnisvara/infohaldus/issues/3))
 
