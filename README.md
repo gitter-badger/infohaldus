@@ -7,8 +7,9 @@
 * [Riigi kinnisvara infohalduse strateegia](kinnisvara_infohalduse_strateegia.md)
 * [Kinnisvaravaldkonna semantika](kinnisvara_semantika.md)
 * [Kinnisvaravaldkonna protsessikaart](protsessid/readme.md)
-* [Riigi kinnisvararegistri andmeteenuste arendamine](https://github.com/kinnisvara/RKVR)
+* [Kinnisvaravaldkonna regulatsiooni arendamine](https://github.com/kinnisvara/regulatsioon)
 * [Uue kinnisvararegistri kontseptsiooni väljatöötamine](https://github.com/kinnisvara/register)
+* [Riigi kinnisvararegistri tugi ja arendamine](https://github.com/kinnisvara/RKVR)
 
 ## Töökorraldus
 
