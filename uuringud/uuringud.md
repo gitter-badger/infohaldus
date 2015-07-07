@@ -7,6 +7,9 @@
 * [Kulunorm](kinnisvara_tulemusaruandlus_ja_kasutusnormatiivid/kulunorm.pdf)
 * [Pinnanorm](kinnisvara_tulemusaruandlus_ja_kasutusnormatiivid/pinnanorm.pdf)
 * [Tulemusaruande kontseptsioon](kinnisvara_tulemusaruandlus_ja_kasutusnormatiivid/ tulemusaruande_kontseptsioon.pdf)
+ 
+### Riigi honestatud kinnisvara rahastamismudelid
+* [Lõpparuanne](rahastamismudelid/rahastamismudelid.pdf)
 
 ### Linkandmed
 * [Uuring „Lingitud Eesti“](infohaldus/lingitud_eesti_lopparuanne_2.0.pdf)
