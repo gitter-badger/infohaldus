@@ -1,5 +1,7 @@
 # Riigi kinnisvara infohalduse töötuba
 
+[![Dokumentatsioon](https://readthedocs.org/projects/infohaldus/badge/?version=latest)](https://readthedocs.org/projects/infohaldus/?badge=latest)
+
 ## Hetkel töös
 
 * [Riigi kinnisvara infohalduse strateegia](kinnisvara_infohalduse_strateegia.md)
