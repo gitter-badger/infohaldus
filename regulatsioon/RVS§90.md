@@ -1,5 +1,5 @@
 ## Nõuded riigi hoonete kasutamisele, korrashoiule ja kuluarvestusele
-([draft](https://github.com/kinnisvara/infohaldus/blob/master/regulatsioon/RVS%C2%A790.md)
+([draft](https://github.com/kinnisvara/infohaldus/blob/master/regulatsioon/RVS%C2%A790.md))
 
 ### Kinnisvara
 Kinnistute, ehitiste, maade kogum
