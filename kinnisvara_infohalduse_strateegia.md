@@ -4,20 +4,20 @@ Staatus: [draft](https://github.com/kinnisvara/infohaldus/edit/master/kinnisvara
 ## Sissejuhatus
 Riigi kinnisvara infohalduse strateegia alusteks on strateegia "[Dokumendihalduselt infohaldusele](https://www.mkm.ee/sites/default/files/dokumendihalduselt_infohaldusele_strateegia_1.9.pdf)" ja selle [alusdokument](https://www.mkm.ee/sites/default/files/lopparuanne_-_dokumendi-_ja_infohalduse_hetkeolukorra_ja_rahvusvaheliste_kogemuste_analuus_1_2.0.pdf) ning projekti "[Riigi kinnisvara kasutusnormatiivide väljatöötamine ja rakendamine riigi eelarveprotsessis](http://riigivara.fin.ee/lr1/web/guest/tof)" [tulemused](https://github.com/kinnisvara/infohaldus/tree/master/tof).
 
-### 1.1 Strateegias kasutatavad mõisted
+### Strateegias kasutatavad mõisted
 
-### 1.2 Töö metoodika
+### Töö metoodika
 
-## 2 Visioon ja eesmärgid
+## Visioon ja eesmärgid
 
-### 2.1 Lahendamist vajavad probleemid
+### Lahendamist vajavad probleemid
 * riigi kinnisvara andmekogude nõrk koosvõime, peamisteks põhjusteks andmete koosseisu, kvaliteedi ja semantika erinevused
 * vajalik info ei ole kättesaadav (puudulikud infomudelid, info halb kvaliteet)
 * raiskamine info mitmekordsel taastootmisel
 
-### 2.2 Visioon: terviklik hästi korraldatud riigi kinnisvara infohaldus
+### Visioon: terviklik hästi korraldatud riigi kinnisvara infohaldus
 
-### 2.3 Riigi kinnisvara infohalduse strateegia eesmärgid
+### Riigi kinnisvara infohalduse strateegia eesmärgid
 
 #### **Kvaliteetsem töö- ja elukeskkond**
 
@@ -31,11 +31,11 @@ Kinnisvara ja ehitiste infohalduses BIM'i rakendamise majanduslik sääst võib 
 * [Rijkswaterstaat, Holland](https://www.rijkswaterstaat.nl/en/images/Factsheet%20Design%20Standards%20-%20open%20Building%20Information%20Modelling_tcm224-340520.pdf): *By implementing BIM in the infra sector, road authorities will reduce failure costs and transaction costs. Studies have shown that __savings can be up to 10% of the building costs__*.
 * [NIST, USA](http://catenda.no/archives/1923): *you __can save 2-3 USD per square meter per year__ by use of open BIM in facility management*.
 
-### 2.4 Seonduvad initsiatiivid
+### Seonduvad initsiatiivid
 
 [e-ehitus](http://e-ehitis.ee/)
 
-## 3 Meetmed eesmärkideni jõudmiseks, tegevused ja mõõdikud
+## Meetmed eesmärkideni jõudmiseks, tegevused ja mõõdikud
 
 ### Semantikavarade haldamise rakendamine
 
@@ -147,8 +147,8 @@ security of:
 
 Töövahendite arendamisel tuleb lähtuda avatusest, koostööst ja pidevast parendamisest: http://wunderkraut.github.io/WunderFlow/
 
-## 4 Mõõdikud ja seire
+## Mõõdikud ja seire
 
-## 5 Riskid
+## Riskid
 
 ## Lisad
