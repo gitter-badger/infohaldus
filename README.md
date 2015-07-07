@@ -1,6 +1,6 @@
 # Riigi kinnisvara infohalduse töötuba
 
-[![Dokumentatsioon](https://readthedocs.org/projects/infohaldus/badge/?version=latest)](https://readthedocs.org/projects/infohaldus/?badge=latest)
+[Loe dokumentatsiooni](http://infohaldus.rtfd.org/)
 
 ## Hetkel töös
 
