@@ -8,7 +8,7 @@
 * [Pinnanorm](uuringud/kinnisvara_tulemusaruandlus_ja_kasutusnormatiivid/pinnanorm.pdf)
 * [Tulemusaruande kontseptsioon](uuringud/kinnisvara_tulemusaruandlus_ja_kasutusnormatiivid/ tulemusaruande_kontseptsioon.pdf)
  
-### Riigi honestatud kinnisvara rahastamismudelid
+### Riigi hoonestatud kinnisvara rahastamismudelid
 * [Lõpparuanne](uuringud/rahastamismudelid/rahastamismudelid.pdf)
 
 ### Linkandmed
