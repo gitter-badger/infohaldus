@@ -10,6 +10,12 @@ Riigi kinnisvara infohalduse strateegia alusteks on strateegia "[Dokumendihaldus
 
 ## Visioon ja eesmärgid
 
+Kinnisvara infohalduse konkreetse sihttaseme püstitamiseks kasutame [infohalduse küpsusmudeli](https://www.mkm.ee/sites/default/files/dokumendihalduselt_infohaldusele_strateegia_1.9.pdf#page=31&zoom=auto,71,465) tasemete määratlusi ning seame eesmärgi jõuda aastaks 2020 kontrollitud (kolmandale) tasemele. Sellel tasemel on põhilised infohalduse vajadused kaetud kontrollitud viisil ning organisatsiooni põhiprotsessid on kirjeldatud ja arendatavad, regulatsioone täidetakse ning kohustustega tullakse toime. 
+
+[!IHS_eesmärgid](materjalid/IHS_eesmärgid.PNG)
+
+Infohalduse küpsusmudeli kolmanda taseme kriteeriumite saavutamisel on võimalik riigi infohalduse [strateegia eesmärkide](https://www.mkm.ee/sites/default/files/dokumendihalduselt_infohaldusele_strateegia_1.9.pdf#page=9&zoom=auto,48,205) täitumine ja „Infoühiskonna arengukavas 2020“ seatud nutikama riigivalitsemise eesmärkide täitmine.
+
 ### Lahendamist vajavad probleemid
 * riigi kinnisvara andmekogude nõrk koosvõime, peamisteks põhjusteks andmete koosseisu, kvaliteedi ja semantika erinevused
 * vajalik info ei ole kättesaadav (puudulikud infomudelid, info halb kvaliteet)
