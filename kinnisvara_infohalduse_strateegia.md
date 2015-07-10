@@ -35,7 +35,8 @@ Kinnisvara ja ehitiste infohalduses BIM'i rakendamise majanduslik sääst võib 
 * [Rijkswaterstaat, Holland](https://www.rijkswaterstaat.nl/en/images/Factsheet%20Design%20Standards%20-%20open%20Building%20Information%20Modelling_tcm224-340520.pdf): *By implementing BIM in the infra sector, road authorities will reduce failure costs and transaction costs. Studies have shown that __savings can be up to 10% of the building costs__*.
 * [NIST, USA](http://catenda.no/archives/1923): *you __can save 2-3 USD per square meter per year__ by use of open BIM in facility management*.
 
-[Sisuhaldusraamistiku](http://www.wunderkraut.ee/drupal) kasutamine võimaldab kiiret ja agiilset arendusprotsessi, laialdast kohandumist ja **väiksemat kogukulu omanikule**. 
+[Sisuhaldusraamistiku](http://www.wunderkraut.ee/drupal) kasutamine võimaldab kiiret ja agiilset arendusprotsessi, laialdast kohandumist ja **väiksemat kogukulu omanikule**:
+* The Energy.gov build has resulted in **cost savings upward of $10 million annually** to taxpayers, through the consolidation of duplicative digital technology platforms and expensive internal hosting solutions, along with using the Drupal platform to disseminate information for new initiatives, rather than building new, stand-alone websites.
 
 #### **Informeeritumad otsused**
 
