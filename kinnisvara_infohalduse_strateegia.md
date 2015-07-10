@@ -55,7 +55,7 @@ Kinnisvara ja ehitiste infohalduses BIM'i rakendamise majanduslik sääst võib 
 
 ### Semantikavarade haldamise rakendamine
 
-Riigi kinnisvaravaldkonnas tuleb süstemaatiliselt hakata semantikavarasid haldama. Selleks tuleb esmalt luua andmete semantiliseks kirjeldamiseks vajalik **kontseptsioon** (ontoloogia OWL vormingus, [#2](https://github.com/kinnisvara/infohaldus/issues/2)) ja seejärel **kirjeldada andmeteenused ja -koosseisud** ([kirjeldamise juhis](https://www.ria.ee/public/RIHA/semantilise_kirjeldamise_juhis_v04.PDF)). 
+Riigi kinnisvaravaldkonnas tuleb süstemaatiliselt hakata semantikavarasid haldama. Selleks tuleb esmalt luua andmete semantiliseks kirjeldamiseks vajalik **kontseptsioon** (ontoloogia OWL vormingus, [#2](https://github.com/kinnisvara/infohaldus/issues/2)) ja seejärel **kirjeldada andmeteenused ja -koosseisud** ([kirjeldamise juhis](https://github.com/kinnisvara/infohaldus/blob/master/materjalid/semantilise_kirjeldamise_juhis_v04.PDF)). 
 
 [Figure 7](http://www.bimtaskgroup.org/wp-content/uploads/2014/09/The-Asset-Information-Model-using-BIM.pdf) provides an overview of how the organisation can approach the development of its information requirements and how the information relates to the Asset Information Model (AIM) PAS 1192:3 and the Project Information Model (PIM) PAS 1192:2, http://www.bimtaskgroup.org/wp-content/uploads/2014/09/The-Asset-Information-Model-using-BIM.pdf
 
