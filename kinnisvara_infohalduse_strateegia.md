@@ -20,6 +20,7 @@ Infohalduse küpsusmudeli kolmanda taseme kriteeriumite saavutamisel on võimali
 * riigi kinnisvara andmekogude nõrk koosvõime, peamisteks põhjusteks andmete koosseisu, kvaliteedi ja semantika erinevused
 * vajalik info ei ole kättesaadav (puudulikud infomudelid, info halb kvaliteet)
 * raiskamine info mitmekordsel taastootmisel
+* kallid, ebaefektiivsed ja paindumatud infosüsteemid
 
 ### Visioon: terviklik hästi korraldatud riigi kinnisvara infohaldus
 
@@ -30,13 +31,16 @@ Infohalduse küpsusmudeli kolmanda taseme kriteeriumite saavutamisel on võimali
 #### **Efektiivsem riik** 
 _Aastal 2020 peab riik toime tulema viiendiku võrra väiksema eelarvega ning pakkuma vähemalt samas mahus vähemalt sama kvaliteediga avalikke teenuseid._
 
+TT: siit edasi lahendused meetmetesse:
+
 Kinnisvara ja ehitiste infohalduses BIM'i rakendamise majanduslik sääst võib uuringutele ja teiste riikide kogemusele tuginedes olla märkimisväärne: 
 * [Digital Built Britain, Ühendkuningriigid](http://www.buildingsmart.org/2015/03/03/digital-built-britain-launch/): The standards and savings delivered by the BIM level 2 initiative has been central to the __£840M savings achieved on central public spend in 2013/14__. [@nick_tune #BIMsday](https://twitter.com/FINAL_CAD/status/611436392258891776): The main rationale for the UK gov to introduce the mandate on #BIM was to reduce costs. __£1.7B saved between '11 and '14__.
 * [Rijkswaterstaat, Holland](https://www.rijkswaterstaat.nl/en/images/Factsheet%20Design%20Standards%20-%20open%20Building%20Information%20Modelling_tcm224-340520.pdf): *By implementing BIM in the infra sector, road authorities will reduce failure costs and transaction costs. Studies have shown that __savings can be up to 10% of the building costs__*.
 * [NIST, USA](http://catenda.no/archives/1923): *you __can save 2-3 USD per square meter per year__ by use of open BIM in facility management*.
 
 [Sisuhaldusraamistiku](http://www.wunderkraut.ee/drupal) kasutamine võimaldab kiiret ja agiilset arendusprotsessi, laialdast kohandumist ja **väiksemat kogukulu omanikule**:
-* The Energy.gov build has resulted in **cost savings upward of $10 million annually** to taxpayers, through the consolidation of duplicative digital technology platforms and expensive internal hosting solutions, along with using the Drupal platform to disseminate information for new initiatives, rather than building new, stand-alone websites.
+* The Energy.gov build has resulted in **cost savings upward of $10 million annually** to taxpayers, through the **consolidation of duplicative digital technology platforms and expensive internal hosting solutions, along with using the Drupal platform** to disseminate information for new initiatives, rather than building new, stand-alone websites. [Allikas](http://www.governing.com/news/technology/Why-Big-Government-Sites-Run-Drupal-.html)
+* The Georgia Technology Authority (GTA) will save the state approximately **$4.7 million over the next five years** **by using an open source website content management system and hosting data in the cloud**. [Allikas](http://www.govtech.com/Georgia-Saving-Millions-with-Open-Source-Technology.html)
 
 #### **Informeeritumad otsused**
 
