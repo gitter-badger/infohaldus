@@ -1,2 +1,2 @@
 ## Kinnisvara infohalduse regulatsioon
-@tormi: tõstan siia üle: https://github.com/kinnisvara/regulatsioon
+@tormi: kaalume, kas jäta siia, tõsta üle uude [regulatsiooni reposse](https://github.com/kinnisvara/regulatsioon) või [wikisse](https://github.com/kinnisvara/infohaldus/wiki).
