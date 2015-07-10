@@ -43,6 +43,7 @@ Kinnisvara ja ehitiste infohalduses BIM'i rakendamise majanduslik sääst võib 
 * The Georgia Technology Authority (GTA) will save the state approximately **$4.7 million over the next five years** **by using an open source website content management system and hosting data in the cloud**. [Allikas](http://www.govtech.com/Georgia-Saving-Millions-with-Open-Source-Technology.html)
 
 #### **Informeeritumad otsused**
+* Pieter Pauwels, Davy Van Deursen, Leandro Madrazo, Gonçal Costa, Leif Granholm, Edward Corry, Edward Curry, James O'Donnell, Seppo Törmä, Jyrki Oraskari, Nam Vu Hoang. **Supporting Decision-Making in the Building Lifecycle using Linked Data**. In First International Workshop on Linked Data in Architecture and Construction: Workshop Report (2012) 12-18
 
 ### Seonduvad initsiatiivid
 
