@@ -45,6 +45,8 @@ Kinnisvara ja ehitiste infohalduses BIM'i rakendamise majanduslik sääst võib 
 #### **Informeeritumad otsused**
 * Pieter Pauwels, Davy Van Deursen, Leandro Madrazo, Gonçal Costa, Leif Granholm, Edward Corry, Edward Curry, James O'Donnell, Seppo Törmä, Jyrki Oraskari, Nam Vu Hoang. **[Supporting Decision-Making in the Building Lifecycle using Linked Data](https://github.com/kinnisvara/infohaldus/blob/master/materjalid/buildings-04-00549.pdf)**. In First International Workshop on Linked Data in Architecture and Construction: Workshop Report (2012) 12-18
 
+![Figure 14.](materjalid/LBD_fig_14.PNG)
+
 ### Seonduvad initsiatiivid
 
 [e-ehitus](http://e-ehitis.ee/)
