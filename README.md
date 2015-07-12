@@ -25,3 +25,7 @@ Kannete [#](https://help.github.com/articles/about-issues/) abil on hea probleem
 * [Janno Veskimets](https://github.com/Prskin)
 * [Peep Küngas](https://github.com/peepkungas)
 * [Katrin Solvak](https://github.com/KatrinSolvak)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kinnisvara/infohaldus/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
