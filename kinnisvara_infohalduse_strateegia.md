@@ -148,7 +148,7 @@ security of:
 
 
 
-### Kvaliteedijuhtimise rakendamine äriprotsesside ja teenuste haldamisel. [Continuous improvement](http://businesscasestudies.co.uk/corus/continuous-improvement-as-a-business-strategy/continuous-improvement.html#axzz3dLCJSEHA) põhimõtete rakendamine
+### Kvaliteedijuhtimise rakendamine äriprotsesside ja teenuste haldamisel. Knowledge management'i ja [Continuous improvement](http://businesscasestudies.co.uk/corus/continuous-improvement-as-a-business-strategy/continuous-improvement.html#axzz3dLCJSEHA) põhimõtete rakendamine
 
 ### Õigusloome protsessi parendamine
 
