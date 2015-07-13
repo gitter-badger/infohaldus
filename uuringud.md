@@ -6,7 +6,7 @@
 * [Kinnisvarakeskkonna teenuste kvaliteedinorm](uuringud/kinnisvara_tulemusaruandlus_ja_kasutusnormatiivid/kinnisvarakeskkonna_teenuste_kvaliteedinorm.pdf)
 * [Kulunorm](uuringud/kinnisvara_tulemusaruandlus_ja_kasutusnormatiivid/kulunorm.pdf)
 * [Pinnanorm](uuringud/kinnisvara_tulemusaruandlus_ja_kasutusnormatiivid/pinnanorm.pdf)
-* [Tulemusaruande kontseptsioon](uuringud/kinnisvara_tulemusaruandlus_ja_kasutusnormatiivid/ tulemusaruande_kontseptsioon.pdf)
+* [Tulemusaruande kontseptsioon](uuringud/kinnisvara_tulemusaruandlus_ja_kasutusnormatiivid/tulemusaruande_kontseptsioon.pdf)
  
 ### Riigi hoonestatud kinnisvara rahastamismudelid
 * [Lõpparuanne](uuringud/rahastamismudelid/rahastamismudelid.pdf)
