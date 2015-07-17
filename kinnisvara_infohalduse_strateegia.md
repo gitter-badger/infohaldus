@@ -93,6 +93,7 @@ Sisuhaldusraamistiku ([#](http://www.wunderkraut.ee/drupal)) kasutamine võimald
 Töövahendite arendamisel tuleb lähtuda avatusest, koostööst ja pidevast parendamisest:
 * http://wunderkraut.github.io/WunderFlow/
 * [More Bang for Your Buck: How Open Source Software Spurs International Development](https://medium.com/the-exchange-k4health/more-bang-for-your-buck-how-open-source-software-spurs-international-development-809efdfbcdca)
+* http://energy.gov/eere/buildings/open-source-strategy
 
 ## Mõõdikud ja seire
 
